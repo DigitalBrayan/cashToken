@@ -1,12 +1,17 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+# cashToken
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+cashToken es un generador de tokens que permite crear tokens únicos utilizados para diversas finalidades, como autenticación, transacciones y gestión de activos digitales. Este proyecto proporciona una solución segura y eficiente para la creación y manejo de tokens, facilitando la integración en aplicaciones y sistemas.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## Instalación
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+Sigue estos pasos para instalar el proyecto:
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+```bash
+# Clona el repositorio
+git clone https://github.com/DigitalBrayan/cashToken.git
+
+# Navega al directorio del proyecto
+cd cashToken
+
+# Instala las dependencias (ajusta según tu proyecto)
+npm install  # o cualquier otro comando relevante
